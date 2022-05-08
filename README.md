@@ -21,7 +21,7 @@ const alejandro = {
 
 
 ![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejandroaperez1994g&hide=contribs,prs)
-<p align="left" margin-right="10px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alejandroaperez1994g" alt="alejandroaperez1994g" /></a> </p>
+
 
 <!--
 **alejandroaperez1994g/alejandroaperez1994g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
