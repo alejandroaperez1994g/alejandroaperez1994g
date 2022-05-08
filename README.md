@@ -6,8 +6,7 @@ const alejandro = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Node],
-
- challenge: "I am currently studying a Master's Degree in Software Development 
+  challenge: "I am currently studying a Master's Degree in Software Development 
              at Assembler Institute of Technology."
 }
 ```
