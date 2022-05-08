@@ -7,7 +7,8 @@ const alejandro = {
   code: [Javascript, HTML, CSS],
   tools: [React, Node],
 
- challenge: "I am currently studying a Master's Degree in Software Development at Assembler Institute of Technology."
+ challenge: "I am currently studying a Master's Degree in Software Development 
+             at Assembler Institute of Technology."
 }
 ```
 📫 How to reach me: **alejandroaperez1994g@gmail.com**
