@@ -4,10 +4,8 @@
 ```javascript
 const alejandro = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, NextJS, Express, MongoDB],
-  challenge: "I am currently studying a Master's Degree in Software Development 
-             at Assembler Institute of Technology."
+  code: [Typescript, Javascript, HTML, CSS],
+  tools: [React, Node, NextJS, Express, Prisma, MongoDB],
 }
 ```
 📫 How to reach me: **alejandroaperez1994g@gmail.com**
